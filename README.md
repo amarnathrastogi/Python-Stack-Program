@@ -23,4 +23,4 @@ python stack_program.py
 
 ## Author
 
-Amarnath Rastogi
+Amarnath Rastogi Beginner Python Devloper
